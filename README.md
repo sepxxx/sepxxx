@@ -14,7 +14,7 @@ Java Developer
 *   🌱 I'm also interested in blockchain developemnt 
 
 📫 How to reach me
-* [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/septentrioo)
+* [![Telegram Badge](https://img.shields.io/badge/-septenrioo-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/septentrioo)
 
 
 <h3 align="left">Languages and Tools:</h3>
