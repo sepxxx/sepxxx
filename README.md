@@ -1,7 +1,7 @@
 Hi 👋 My name is Nikita
 =======================
 
-Java Developer
+Backend Developer
 --------------
 
 🎓 Education
