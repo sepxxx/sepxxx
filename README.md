@@ -8,11 +8,6 @@ Backend Developer
 * Computer Science student at Kazan Federal University. 
 * Student at programming school "School-21".
 
-👾 BIO
-*   🌍  I'm based in Kazan
-*   🧠  I'm learning Java frameworks
-*   🌱 I'm also interested in blockchain developemnt 
-
 📫 How to reach me
 * [![Telegram Badge](https://img.shields.io/badge/-septenrioo-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/septentrioo)
 
